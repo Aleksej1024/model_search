@@ -21,3 +21,4 @@ DEFAULT_RNN_LAST = (
     "model_search/model_search/configs/rnn_last_config.pbtxt")
 pipez
 esche
+essacadwd
